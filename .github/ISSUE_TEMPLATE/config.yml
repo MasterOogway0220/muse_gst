@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: User guide
+    url: https://masteroogway0220.github.io/muse_gst/
+    about: How to install, update and use every screen. Many answers are already here.
+  - name: Custom software or paid help
+    url: https://github.com/MasterOogway0220/muse_gst
+    about: MuseGST builds custom software and offers setup and support plans.
